@@ -18,4 +18,6 @@ Data Visualization and Data Storytelling of Global Terrorism Data from 2002–20
 4. Data Storytelling: Interpreting and analyzing insights from the dashboards to craft a coherent and meaningful data story.
 
 **Dashboard**
+Dashboard 1:
+![Screenshot(495)](https://github.com/limthanyathorn-123/Global-Terrorism-Event/blob/main/Dashboard1.jpg)
 
