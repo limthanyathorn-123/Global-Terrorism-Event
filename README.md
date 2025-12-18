@@ -21,3 +21,14 @@ Data Visualization and Data Storytelling of Global Terrorism Data from 2002–20
 Dashboard 1:
 ![Screenshot(495)](https://github.com/limthanyathorn-123/Global-Terrorism-Event/blob/main/Dashboard1.jpg)
 
+Dashboard 2:
+![Screenshot(495)](https://github.com/limthanyathorn-123/Global-Terrorism-Event/blob/main/Dashboard2.jpg)
+
+Dashboard 3:
+![Screenshot(495)](https://github.com/limthanyathorn-123/Global-Terrorism-Event/blob/main/Dashboard3.jpg)
+
+Dashboard 4:
+![Screenshot(495)](https://github.com/limthanyathorn-123/Global-Terrorism-Event/blob/main/Dashboard4.jpg)
+
+Dashboard 5:
+![Screenshot(495)](https://github.com/limthanyathorn-123/Global-Terrorism-Event/blob/main/Dashboard5.jpg)
