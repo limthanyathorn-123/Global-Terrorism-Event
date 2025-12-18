@@ -15,4 +15,7 @@ Data Visualization and Data Storytelling of Global Terrorism Data from 2002–20
 1. Data Exploration: Initial understanding and examination of the dataset using Microsoft Excel.
 2. Data Preparation: Cleaning, transforming, and preparing the data for analysis using Microsoft Excel.
 3. Data Visualization: Creating dashboards and visual representations of the data using Tableau.
-4. Data Storytelling: Interpreting and analyzing insights from the dashboards to craft a coherent and meaningful data story. 
+4. Data Storytelling: Interpreting and analyzing insights from the dashboards to craft a coherent and meaningful data story.
+
+**Dashboard**
+
