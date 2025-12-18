@@ -2,6 +2,7 @@
 Data Visualization and Data Storytelling of Global Terrorism Data from 2002–2017
 **Subject:** Data Warehouse and Business Intelligence System
 **Topic:** Data Visualization and Data Storytelling of Global Terrorism Data from 2002–2017
+**Raw Data:** https://www.kaggle.com/datasets/START-UMD/gtd
 
 **Objectives:**
 1. To present an overview of global terrorism data from 2002 to 2017 using data visualizations.
